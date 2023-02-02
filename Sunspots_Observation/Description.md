@@ -1,9 +1,9 @@
 # Description - Sunspots_Observation
----
+
 This project is based on sunspots observation data, from 1818 to 2019, obtained at Kaggle. With the help of Pandas, Numpy and MatPlotLib, i cleanned the data and retrieved some information.
-
-I aimed to clean the data, as some dates had missing values.
-
+---
+I aimed to clean the data, as some information is missing. Values of -1 for the column "Number of sunspots" represents missing values, which were discarted.
+---
 With the cleanned data, i retrieved the values of observations/year, plotted and interpolated a curve for further analysis.
 Also, i retrieved important information:
 - Year with largest number of observations;
