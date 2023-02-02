@@ -1,6 +1,4 @@
 # Description - Sunspots_Observation
-
-Datasource = https://www.kaggle.com/datasets/abhinand05/daily-sun-spot-data-1818-to-2019/code?select=sunspot_data.csv
 ---
 This project is based on sunspots observation data, from 1818 to 2019, obtained at Kaggle. With the help of Pandas, Numpy and MatPlotLib, i cleanned the data and retrieved some information.
 
@@ -12,3 +10,6 @@ Also, i retrieved important information:
 - Date at which the largest number of sunspots where observed.
 
 The project and the data is available at the folder. Thanks :)
+---
+
+Datasource = https://www.kaggle.com/datasets/abhinand05/daily-sun-spot-data-1818-to-2019/code?select=sunspot_data.csv
