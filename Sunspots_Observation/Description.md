@@ -1,4 +1,4 @@
-# Description - Sunspots_Observation
+# Description - Sunspots Observation Data
 
 This project is based on sunspots observation data, from 1818 to 2019, obtained at Kaggle. With Python 3 and With the help of Pandas, Numpy and MatPlotLib, i cleanned the data and retrieved some information.
 ---
