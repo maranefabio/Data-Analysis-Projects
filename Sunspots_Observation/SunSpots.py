@@ -82,3 +82,6 @@ y = y_f(x)
 plt.scatter(x, y, s = 0.1, color = 'red')
 plt.show()
 
+df_sunspots_year = df.groupby('year').sum().reset_index()
+df_sunspots_year = df_sunspots_year.filter(['year', 'sunspots']).copy()
+print(df_sunspots_year.head())
