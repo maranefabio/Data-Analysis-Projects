@@ -7,9 +7,10 @@ With the cleanned data, i retrieved the values of observations/year, plotted and
 Also, i retrieved important information:
 
 - Year with largest number of observations (2018);
-- Finding the existence of solar cycles of 11 years, in which the number os sunspots hit a peak.
-- Date at which the largest number of sunspots where observed (26/08/1870  -  528 sunspots).
-- Prevision of the next peak of sunspots (2025)
+- Finding the existence of solar cycles of 11 years, in which the number os sunspots hit a peak;
+- Date at which the largest number of sunspots where observed (26/08/1870  -  528 sunspots);
+- Last Sun's cycle peak (2014);
+- Prevision of the next peak (2025).
 
 The project and the data is available at the folder. Thank you!
 ---
