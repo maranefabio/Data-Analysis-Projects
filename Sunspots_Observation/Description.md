@@ -11,7 +11,7 @@ Also, i retrieved important information:
 - Date at which the largest number of sunspots where observed (26/08/1870  -  528 sunspots).
 - Prevision of the next peak of sunspots (2025)
 
-The project and the data is available at the folder. Thanks :)
+The project and the data is available at the folder. Thank you!
 ---
 
 Datasource = https://www.kaggle.com/datasets/abhinand05/daily-sun-spot-data-1818-to-2019/code?select=sunspot_data.csv
