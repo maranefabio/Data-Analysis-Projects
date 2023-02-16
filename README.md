@@ -1,2 +1,3 @@
-# DataScience-Projects
-Portfolio for DataScience
+# Data Analysis Projects
+
+Portfolio for DataScience :)
